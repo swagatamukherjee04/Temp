@@ -1,1 +1,2 @@
 This is the first file I commit in git.
+This is the first bug I fix for conflict resolution.
