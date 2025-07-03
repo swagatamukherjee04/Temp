@@ -1,2 +1,2 @@
 This is the first file I commit in git.
-This is a message I write to resolve conflict of merging.
+This is the first bug I fix for conflict resolution.
